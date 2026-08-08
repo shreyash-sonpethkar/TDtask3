@@ -1,7 +1,12 @@
 # Task
 
 This is a small html and css task.
-in this task I used defferent selectors to style.
+In this task I used defferent selectors to style.
+
+# Technology 
+
+HTML
+CSS
 
 # Files
 
