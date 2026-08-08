@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(255, 68, 0, 0.482);
+}
+
+.head{
+    color: darkblue;
+}
+
+#bglime{
+    background-color: lime;
+}
+
+#red{
+    color: red;
+}
+
+p{
+    color: white;
+}
+
+
+#para{
+    color: green;
+}
+
+#para span{
+    color: black;
+    font-size: larger;
+}
+
+ul li:first-child a{
+    background-color: yellow;
+}
+
+li:last-child a{
+    background-color: blue;
+}
+
+ol li:nth-child(2){
+    color: blue;
+}
+
+ol li:nth-child(3){
+    color: red;
+}
